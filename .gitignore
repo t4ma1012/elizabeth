@@ -1,0 +1,5 @@
+ForensIQ_30Day_Plan.docx
+venv/
+__pycache__/
+*.pyc
+.env
